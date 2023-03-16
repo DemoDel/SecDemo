@@ -2,3 +2,5 @@
   "AadSecret": "Jwa8Q~zoet7qL93amzxP36scQSxDXMrbNPYkvbjj",
   "AadTenantDomain": "delnzcyberoperate.onmicrosoft.com",
   "AadTenantId": "779ec2cb-6e29-4356-b664-547bbf0fd8d2",
+  
+  commit
