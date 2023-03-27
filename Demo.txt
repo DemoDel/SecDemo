@@ -1,6 +1,6 @@
 "AadClientId": "4d878973-feea-4aec-8b65-8c6bf3715d66",
   "AadSecret": "l7K8Q~hY.97.z--qsxP~SZpgcxrUqQ5JvduRwaQY",
-  "AadTenantDomain": "delnzcyberoperate.onmicrosoft.com",
+  "AadTenantDomain": "malwearcomputers.com",
   "AadTenantId": "779ec2cb-6e29-4356-b664-547bbf0fd8d2",
   
   commit
