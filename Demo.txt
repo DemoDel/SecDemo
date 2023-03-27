@@ -1,5 +1,5 @@
-"AadClientId": "c415c2d8-ef64-4d82-9544-7c17dd8e946c",
-  "AadSecret": "Jwa8Q~zoet7qL93amzxP36scQSxDXMrbNPYkvbjj",
+"AadClientId": "4d878973-feea-4aec-8b65-8c6bf3715d66",
+  "AadSecret": "l7K8Q~hY.97.z--qsxP~SZpgcxrUqQ5JvduRwaQY",
   "AadTenantDomain": "delnzcyberoperate.onmicrosoft.com",
   "AadTenantId": "779ec2cb-6e29-4356-b664-547bbf0fd8d2",
   
